@@ -18,3 +18,19 @@ This project analyzes sales data to identify trends, patterns, and insights usin
 
 ## 🚀 Goal
 To build a strong foundation in Data Analysis and move towards Data Science and Machine Learning.
+## 📂 Project Structure
+
+- analysis.py → Python analysis & ML model  
+- Superstore.csv → Dataset  
+- Sales_Dashboard_Project.xlsx → Excel dashboard  
+- data analysis.pdf → Final report  
+
+## 🤖 Machine Learning
+
+Used Linear Regression to predict profit based on:
+- Sales
+- Quantity
+- Discount
+## 📊 Output
+
+![Output](output.png)
